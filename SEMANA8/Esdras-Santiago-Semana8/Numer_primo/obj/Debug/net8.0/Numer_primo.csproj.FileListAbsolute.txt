@@ -1,0 +1,15 @@
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\bin\Debug\net8.0\Numer_primo.exe
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\bin\Debug\net8.0\Numer_primo.deps.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\bin\Debug\net8.0\Numer_primo.runtimeconfig.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\bin\Debug\net8.0\Numer_primo.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\bin\Debug\net8.0\Numer_primo.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.AssemblyInfoInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.AssemblyInfo.cs
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.csproj.CoreCompileInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.sourcelink.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\refint\Numer_primo.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\Numer_primo.genruntimeconfig.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA8\Numer_primo\obj\Debug\net8.0\ref\Numer_primo.dll
