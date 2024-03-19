@@ -1,0 +1,15 @@
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\bin\Debug\net8.0\parcial.exe
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\bin\Debug\net8.0\parcial.deps.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\bin\Debug\net8.0\parcial.runtimeconfig.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\bin\Debug\net8.0\parcial.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\bin\Debug\net8.0\parcial.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.AssemblyInfoInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.AssemblyInfo.cs
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.sourcelink.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\refint\parcial.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\parcial.genruntimeconfig.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA9\parcial\obj\Debug\net8.0\ref\parcial.dll

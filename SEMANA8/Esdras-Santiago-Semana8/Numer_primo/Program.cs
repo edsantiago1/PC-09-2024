@@ -4,27 +4,28 @@
     {
         static void Main(string[] args)
         {
-            string titulo = "Calculador de numeros primos";
-            Console.SetCursorPosition((Console.WindowWidth - titulo.Length) / 2, Console.CursorTop);
-            Console.WriteLine(titulo);
-            while (true){
-                int decision = 0;
-                Console.Write("Ingrese el número que desea comprobar si es número primo: "); int num = int.Parse(Console.ReadLine());
-                for (int i = 1; i <= num; i++){
-                    if (num % i == 0){
-                        decision++;
-                    }
-                    if (decision > 2){
-                        Console.WriteLine($"El numero :{num} no es un numero primo");
-                        break;
-                    }
-                }
-                if (decision == 2){
-                    Console.WriteLine($"El numero :{num} es un numero primo");
-                }else if (decision < 2){
-                        Console.WriteLine($"El numero :{num} no es un numero primo");
-                    }
+            while(true){
+            Console.WriteLine("Ciclo de vida humana");
+            Console.Write("Ingrese la edad del usuario");
+            int edad = int.Parse(Console.ReadLine());
+            if (edad>=0&&edad<=5){
+                Console.WriteLine("El usuario se encuentra en la primera infancia");
             }
+            else if (edad>=6&&edad<=1){
+                Console.WriteLine("El usuario se encuentra en la infancia");
+            }
+            else if (edad>=12&&edad<=18){
+                Console.WriteLine("El usuario se encuentra en la adolescencia");
+            }
+            else if (edad>=19&&edad<=25){
+                Console.WriteLine("El usuario se encuentra en la juventud");
+            }
+            else if (edad>=26&&edad<=59){
+                Console.WriteLine("El usuario se encuentra en la adultez");
+            }
+            else if (edad>=60){
+                Console.WriteLine("El usuario es una persona mayor");
+            }}
         }
     }
 }
