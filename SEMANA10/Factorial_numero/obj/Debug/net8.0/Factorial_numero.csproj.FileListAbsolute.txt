@@ -1,0 +1,15 @@
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\bin\Debug\net8.0\Factorial_numero.exe
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\bin\Debug\net8.0\Factorial_numero.deps.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\bin\Debug\net8.0\Factorial_numero.runtimeconfig.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\bin\Debug\net8.0\Factorial_numero.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\bin\Debug\net8.0\Factorial_numero.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.AssemblyInfoInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.AssemblyInfo.cs
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.csproj.CoreCompileInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.sourcelink.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\refint\Factorial_numero.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\Factorial_numero.genruntimeconfig.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA10\Factorial_numero\obj\Debug\net8.0\ref\Factorial_numero.dll
