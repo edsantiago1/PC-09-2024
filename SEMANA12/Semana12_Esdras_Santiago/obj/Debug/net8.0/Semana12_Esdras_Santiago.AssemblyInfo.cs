@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana12_Esdras_Santiago")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14141634a6695a6368538422639898226a16ecfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2119311200b30836f5a8cf1a691c137b8aabf6de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana12_Esdras_Santiago")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana12_Esdras_Santiago")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
