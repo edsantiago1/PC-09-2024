@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "semana15b_Esdras_Santiago/1.0.0": {
+        "runtime": {
+          "semana15b_Esdras_Santiago.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semana15b_Esdras_Santiago/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
