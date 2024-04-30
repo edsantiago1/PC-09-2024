@@ -1,0 +1,15 @@
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\bin\Debug\net8.0\Semana13_Esdras_Santiago_1.exe
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\bin\Debug\net8.0\Semana13_Esdras_Santiago_1.deps.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\bin\Debug\net8.0\Semana13_Esdras_Santiago_1.runtimeconfig.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\bin\Debug\net8.0\Semana13_Esdras_Santiago_1.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\bin\Debug\net8.0\Semana13_Esdras_Santiago_1.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.AssemblyInfoInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.AssemblyInfo.cs
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.csproj.CoreCompileInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.sourcelink.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\refint\Semana13_Esdras_Santiago_1.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\Semana13_Esdras_Santiago_1.genruntimeconfig.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\SEMANA13\Semana13_Esdras_Santiago_1\obj\Debug\net8.0\ref\Semana13_Esdras_Santiago_1.dll
