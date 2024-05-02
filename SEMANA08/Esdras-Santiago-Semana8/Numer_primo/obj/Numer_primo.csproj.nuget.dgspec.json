@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA8\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj": {}
+    "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA08\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA8\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj": {
+    "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA08\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA8\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj",
+        "projectUniqueName": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA08\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj",
         "projectName": "Numer_primo",
-        "projectPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA8\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj",
+        "projectPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA08\\Esdras-Santiago-Semana8\\Numer_primo\\Numer_primo.csproj",
         "packagesPath": "C:\\Users\\PC-JUANCHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA8\\Esdras-Santiago-Semana8\\Numer_primo\\obj\\",
+        "outputPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA08\\Esdras-Santiago-Semana8\\Numer_primo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC-JUANCHO\\AppData\\Roaming\\NuGet\\NuGet.Config"
