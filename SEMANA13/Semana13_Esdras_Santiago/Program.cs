@@ -2,17 +2,6 @@
     class Program{
  class ArregloUnidimensional
     {
-        /* Programa arreglos_1:
-
-a) solicitar el ingreso de 8 números
-
-b) guardar en un arreglo
-
-c) mostrar los 8 números ingresados
-
-d) mostrar la suma de los 8 números
-
-e) mostrar el promedio de los 8 números */
         private int[] notas;
 
         //Metodo cargar
@@ -35,8 +24,10 @@ e) mostrar el promedio de los 8 números */
             Console.WriteLine("");
             Console.WriteLine($"Lectura de arreglo en posición: ");
             //Declaración de iteración For
-            for(int im= 0; im < notas.Length; im++){
-                Console.WriteLine($"{im}: {notas[im]}");
+            int e = 1;
+            foreach(int i in notas){
+                Console.WriteLine($"{e}: {i}");
+                e++;
             }
             Console.ReadKey();
         }
