@@ -18,7 +18,7 @@
             string typeS = "";
         while(true){
             Console.Write("Escriba \"Monetaria\" si su cuenta es monetaria, y \"Ahorro\" si su cuenta es de ahorro: ");
-            typeS = Console.ReadLine().ToUpper()??string.Empty;
+            typeS = Console.ReadLine()??string.Empty.ToUpper();
             Console.WriteLine(typeS);
             if(typeS == "MONETARIA" || typeS == "AHORRO"){
                 break;
