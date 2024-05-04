@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Classes;
 
 public class BankAccount
 {
-    public string Number { get; }
+    public string Number { get; set;}
     public string Owner { get; set; }
+    public string Type { get; set;}
+
 #region BalanceComputation
     public decimal Balance
     {
@@ -25,13 +28,14 @@ public class BankAccount
 
     private static int s_accountNumberSeed = 1234567890;
 #region Constructor
-    public BankAccount(string name, decimal initialBalance)
+    public BankAccount(decimal number, string name, decimal initialBalance, string type)
     {
-        Number = s_accountNumberSeed.ToString();
-        s_accountNumberSeed++;
+        Number = number.ToString(); 
 
         Owner = name;
         MakeDeposit(initialBalance, DateTime.Now, "Initial balance");
+
+        Type = type;
     }
 #endregion
 
@@ -79,6 +83,19 @@ public class BankAccount
         }
 
         return report.ToString();
+    }
+#endregion
+
+#region stringArray
+    public void dataString(string name, string accounNumber, string accountType, decimal balance ){
+        string[] userData = new string[4];
+        userData[0] = name;
+        userData[1] = accounNumber;
+        userData[2] = accountType;
+        userData[3] = balance.ToString("f2");
+        foreach(var item in userData){
+            Console.WriteLine(item.ToString());
+        }
     }
 #endregion
 }

@@ -1,7 +1,33 @@
 ﻿using Classes;
-
-var account = new BankAccount("Esdras Santiago", 1000);
-Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} balance.");
+        Console.WriteLine("Ingrese a continuacion los datos solicitados.");
+        string name = "";
+        while(String.IsNullOrEmpty(name)){
+            Console.Write("Nombre: "); name = Console.ReadLine()??string.Empty;
+        }
+        int saldo = 0;
+        while(saldo < 500){
+            Console.Write("Saldo Inicial (saldo minimo para apertura de cuenta Q.500.00): "); string? saldoS  = Console.ReadLine();
+            int.TryParse(saldoS, out saldo);
+            }
+        int number = 0;
+        string numberS = "";
+        while(number <= 0){
+            Console.Write("Numero de cuenta: "); numberS = Console.ReadLine()??string.Empty;
+            int.TryParse(numberS, out number);
+        }
+            string typeS = "";
+        while(true){
+            Console.Write("Escriba \"Monetaria\" si su cuenta es monetaria, y \"Ahorro\" si su cuenta es de ahorro: ");
+            typeS = Console.ReadLine().ToUpper()??string.Empty;
+            Console.WriteLine(typeS);
+            if(typeS == "MONETARIA" || typeS == "AHORRO"){
+                break;
+            }
+        }   
+    
+ var account = new BankAccount(number, name, saldo, typeS);
+    account.dataString(name,numberS,typeS,account.Balance);
+/*Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} balance.");
 
 account.MakeWithdrawal(500, DateTime.Now, "Rent payment");
 Console.WriteLine(account.Balance);
@@ -13,7 +39,7 @@ Console.WriteLine(account.GetAccountHistory());
 // Test that the initial balances must be positive:
 try
 {
-    var invalidAccount = new BankAccount("invalid", -1500);
+    var invalidAccount = new BankAccount(12345678, "invalid", -1500, "Monetaria");
 }
 catch (ArgumentOutOfRangeException e)
 {
@@ -46,4 +72,9 @@ try{
 catch(ArgumentOutOfRangeException e){
     Console.WriteLine("Excepcion los depositos tampooco pueden ser 0");
     Console.WriteLine(e.ToString());
-}
+} */
+
+
+
+
+
