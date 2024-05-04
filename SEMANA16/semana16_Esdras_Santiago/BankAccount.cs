@@ -6,6 +6,7 @@ namespace Classes;
 
 public class BankAccount
 {
+    public decimal initialBalance { get; set; }
     public string Number { get; set;}
     public string Owner { get; set; }
     public string Type { get; set;}
