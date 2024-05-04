@@ -26,7 +26,28 @@
         }   
     
  var account = new BankAccount(number, name, saldo, typeS);
-    account.dataString(name,numberS,typeS,account.Balance);
+ bool menu = true;
+ while(menu){
+    Console.Clear();
+    Console.WriteLine("1.Imprimir datos\n2.Salir del programa");
+    Console.Write("Ingrese el numero de opcion que desea realizar: "); string intV = Console.ReadLine()??string.Empty;
+    int.TryParse(intV, out int i);
+    switch(i){
+        case 1:
+        account.dataString(name,numberS,typeS,account.Balance);
+        break;
+
+        case 2:
+        menu = false;
+        break;
+
+        default:
+        Console.WriteLine("Opcion invalida");
+
+        break;
+    }
+    Console.ReadKey();
+ }
 /*Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} balance.");
 
 account.MakeWithdrawal(500, DateTime.Now, "Rent payment");
