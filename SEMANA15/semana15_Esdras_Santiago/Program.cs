@@ -26,7 +26,7 @@ Console.ReadKey();
 void nuevo(){
     Console.WriteLine("Ingrese un numero entero: ");
     int params1 = int.Parse(Console.ReadLine()??string.Empty);
-    Console.WriteLine("Ingrese una cadena de caracteres: ");
+    Console.WriteLine("Ingrese un string: ");
     string? params2 = Console.ReadLine();
     Console.WriteLine("Ingrse otro numero entero: ");
     int params3 = int.Parse(Console.ReadLine()??string.Empty);

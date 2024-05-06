@@ -1,6 +1,6 @@
 ﻿using Classes;
 
-var account = new BankAccount("Esdras Santiago", 1000);
+var account = new BankAccount("Esdras Santiago", 1000);  
 Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} balance.");
 
 account.MakeWithdrawal(500, DateTime.Now, "Rent payment");
