@@ -5,8 +5,9 @@ namespace Parcial{
         static void Main(){
             Notas notas = new Notas();
             notas.Cargar();
-            notas.Imprimir();
-
+            while(true){
+            notas.Menu();
+            }
         }
     }
 
@@ -53,11 +54,47 @@ namespace Parcial{
                 }
             }
         
-
-        public void Imprimir(){
-            foreach(string datos in datos){
-                Console.WriteLine(datos);
+        public void Menu(){
+            Console.WriteLine("1.Nombre y notas de quienes aprobaron\n2.Nombre y notas de quienes no aprobaron\n3.Nota promedio del salon\nSalir");
+            Console.WriteLine("Seleccione la opcion que desea ejecutar indicando el numero de opcion: "); string opcionS = Console.ReadLine()??string.Empty;
+            switch(opcionS){
+                case "1":
+                Aprobados();
+                break;
+                case "2":
+                Reprobados();
+                break;
+                case "3":
+                Promedio();
+                break;
+                default:
+                Console.WriteLine("Opcion invalida");
+                break;
             }
+        }
+        public void Aprobados(){
+            Console.WriteLine("Alumnos aprobados:");
+            for(int i = 0; i < 10; i++){
+                if(int.Parse(datos[1,i]) >= 65 ){
+                    Console.WriteLine($"{datos[0,i]}: {datos[1,i]}");
+                }
+            }
+        }
+        public void Reprobados(){
+            Console.WriteLine("Alumnos reprobados:");
+            for(int i = 0; i < 10; i++){
+                if(int.Parse(datos[1,i]) < 65 ){
+                    Console.WriteLine($"{datos[0,i]}: {datos[1,i]}");
+                }
+            }
+        }
+        public void Promedio(){
+            int promedio = 0;
+            for(int i = 0; i < 10 ; i++){
+                promedio += int.Parse(datos[1,i]);
+            }
+            promedio = promedio / 10;
+            Console.WriteLine($"La nota promedio es: {promedio}");
         }
 }
 }
