@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA9\\parcial\\parcial.csproj",
+      "projectUniqueName": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA09\\parcial\\parcial.csproj",
       "projectName": "parcial",
-      "projectPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA9\\parcial\\parcial.csproj",
+      "projectPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA09\\parcial\\parcial.csproj",
       "packagesPath": "C:\\Users\\PC-JUANCHO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA9\\parcial\\obj\\",
+      "outputPath": "C:\\Users\\PC-JUANCHO\\Desktop\\Tareas\\Primer semestre\\Pensamiento computacional\\PC-09-2024\\SEMANA09\\parcial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC-JUANCHO\\AppData\\Roaming\\NuGet\\NuGet.Config"

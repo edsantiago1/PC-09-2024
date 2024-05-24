@@ -1,5 +1,7 @@
 ﻿using System.Collections;
+using System.ComponentModel.DataAnnotations;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Semana14{
     class Mainclass{
@@ -38,11 +40,11 @@ namespace Semana14{
                 break;
 
                 case "3":
-                ordenarMayor();
+                ordenarMenor();
                 break;
 
                 case "4":
-                ordenarMenor();
+                ordenarMayor();
                 break;
 
                 case "5":
@@ -68,20 +70,37 @@ namespace Semana14{
             }
             Console.WriteLine(suma/arreglo1.Length);
         }
-        public static void ordenarMayor(){
-            int mayor = 0;
-            for (int i = 0; i < arreglo1.Length; i++){
-                
+        public static void ordenarMenor(){
+            Array.Sort(arreglo1);
+            foreach(int i in arreglo1){
+                Console.WriteLine(i);
             }
         }
-        public static void ordenarMenor(){
-
+        public static void ordenarMayor(){
+            Array.Sort(arreglo1);
+            Array.Reverse(arreglo1);
+            foreach(int i in arreglo1){
+                Console.WriteLine(i);
+            }            
         }
         public static void editarArreglo(){
-            
+            Array.Resize(ref arreglo1, arreglo1.Length+2);
+            Console.WriteLine(arreglo1.Length);
+            Console.Write("Ingrese el valor para espacio 13 del arreglo: ");
+            arreglo1.SetValue(int.Parse(Console.ReadLine()??string.Empty), 12);
+            Console.Write("Ingrese el valor para espacio 14 del arreglo: ");
+            arreglo1.SetValue(int.Parse(Console.ReadLine()??string.Empty), 13);
+            foreach(int i in arreglo1){
+                Console.WriteLine(i);
+            }
         }
         public static void opSplit(){
-
+            Console.Write("Ingrese una frase de 12 palabras para que el programa la divida: ");
+            string palabras = Console.ReadLine()??string.Empty;
+            string[] palabras2 = palabras.Split(" ");
+            foreach(string palabra in palabras2){
+                Console.WriteLine(palabra);
+            }
         }
     }
 }

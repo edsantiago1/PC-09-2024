@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace semana_12
+﻿namespace semana_12
 {
     class Program
     {

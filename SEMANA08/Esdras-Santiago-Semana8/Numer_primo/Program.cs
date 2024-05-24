@@ -1,13 +1,14 @@
-﻿namespace Program
+﻿namespace numeroPrimo
 {
-    class Numero_primo
+    class Progam
     {
         static void Main(string[] args)
         {
             while(true){
+            Console.Clear();
             Console.WriteLine("Ciclo de vida humana");
-            Console.Write("Ingrese la edad del usuario");
-            int edad = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese la edad del usuario: ");
+            int edad = int.Parse(Console.ReadLine()??string.Empty);
             if (edad>=0&&edad<=5){
                 Console.WriteLine("El usuario se encuentra en la primera infancia");
             }
@@ -25,7 +26,9 @@
             }
             else if (edad>=60){
                 Console.WriteLine("El usuario es una persona mayor");
-            }}
+            }
+            Console.ReadKey();
+            }
         }
     }
 }
