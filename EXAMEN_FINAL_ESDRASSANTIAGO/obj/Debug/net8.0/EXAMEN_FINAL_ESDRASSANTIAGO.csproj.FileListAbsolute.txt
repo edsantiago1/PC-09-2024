@@ -1,0 +1,15 @@
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.AssemblyInfoInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.AssemblyInfo.cs
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.csproj.CoreCompileInputs.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.sourcelink.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\bin\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.exe
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\bin\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.deps.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\bin\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.runtimeconfig.json
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\bin\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\bin\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\refint\EXAMEN_FINAL_ESDRASSANTIAGO.dll
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.pdb
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\EXAMEN_FINAL_ESDRASSANTIAGO.genruntimeconfig.cache
+C:\Users\PC-JUANCHO\Desktop\Tareas\Primer semestre\Pensamiento computacional\PC-09-2024\EXAMEN_FINAL_ESDRASSANTIAGO\obj\Debug\net8.0\ref\EXAMEN_FINAL_ESDRASSANTIAGO.dll

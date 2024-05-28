@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EXAMEN_FINAL_ESDRASSANTIAGO/1.0.0": {
+        "runtime": {
+          "EXAMEN_FINAL_ESDRASSANTIAGO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXAMEN_FINAL_ESDRASSANTIAGO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
